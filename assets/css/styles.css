@@ -525,6 +525,7 @@ body.light-theme{
 
 .work__desc{
   margin-bottom: .75rem;
+  text-align: justify;
 }
 
 .button:hover .button__icon{
